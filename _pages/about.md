@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "About Lijing Zhu"
+title: "About David Castaneda"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor at the [University of Houston-Clear Lake](https://www.uhcl.edu/). I earned my Ph.D. in Data Science from [Bowling Green State University](https://www.bgsu.edu/). My work focuses on machine learning, graph-based deep learning, and applied data science, with an emphasis on building practical data-driven methods for real-world problems.
+I am a Loan Originator at the Union Home Mortgage. I graduated from the University of Houston in 2020. Currently I am attending Univeristy of Houston-Clear Lake to earn my Masters in Data Science. 
 
-My research interests include machine learning, graph-based modeling, and intelligent data-driven systems. I am particularly interested in developing computational methods that connect theory with application and support meaningful analysis, decision-making, and problem solving in real settings.
-
-In addition to research, I am committed to teaching and mentoring students in data science, analytics, and related areas. I value clear communication, practical problem solving, and the use of computational tools to make complex ideas more accessible and useful.
+MBA Candidate in Data Science & Business Analytics with a strong foundation in accounting and finance and 5+ years of experience analyzing financial data in the mortgage industry. Proven ability to assess risk, interpret financial trends, and manage large data sets to drive decision-making. Seeking to transition into a Data Analyst or Financial Analyst role leveraging SQL, data visualization, and financial modeling skills.
 
 <div style="border: 1px solid #ddd; border-radius: 14px; padding: 1rem 1.25rem; margin: 1.5rem 0; background: #fafafa;">
   <strong>Collaboration:</strong> I welcome research collaborations and discussions related to machine learning, graph learning, and applied data science. If you are interested in collaboration, student projects, or related research discussions, please feel free to contact me by email.
@@ -19,9 +17,13 @@ In addition to research, I am committed to teaching and mentoring students in da
 
 
 ## Research Interests
-
-- Machine learning
-- Graph-based deep learning
+- Excel (Advanced)
+- SQL 
+- Tableau/ Power BI
+- Python
+- Microsoft Office Suite
+- CRM Systems
+- Graph-based learning
 - Data science and analytics
 - Intelligent data-driven systems
 
