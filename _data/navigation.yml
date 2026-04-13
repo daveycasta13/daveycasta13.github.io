@@ -15,7 +15,7 @@ main:
   #   url: /talks/  
   
   - title: "Projects"
-     url: /projects/  
+    url: /projects/  
     
   - title: "Teaching"
     url: /teaching/    
@@ -26,8 +26,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Courses"
+    url: /courses/
     
   # - title: "CV"
   #   url: /cv-json/
