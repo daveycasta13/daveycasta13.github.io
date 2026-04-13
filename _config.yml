@@ -32,7 +32,7 @@ repository: "daveycasta13/daveycasta13.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "headshot.png"    # Profile image file shown in the sidebar/profile area
+  avatar: "headshot.PNG"    # Profile image file shown in the sidebar/profile area
   name: "David Castaneda"
   bio: "Mortgage Loan Originator at Union Home Mortgage and Student at University of Houston-Clear Lake."
   location: "Houston, TX"
